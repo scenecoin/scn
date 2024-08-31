@@ -1,1 +1,4 @@
-# The Scene Coin
+# THE_SCENE_COIN
+# $SCN
+# 100 000 000 000
+# 
