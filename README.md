@@ -1,1 +1,1 @@
-# scn
+# The Scene Coin
